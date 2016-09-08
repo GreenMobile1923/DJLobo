@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APIKey</key>
+	<string>dfadfa8yfasaefacerewr4rcrx4wte5t54t</string>
+	<key>BaseURL</key>
+	<string>https://djloboapp.com</string>
+	<key>StagingBaseURL</key>
+	<string>https://testdjloboapp.com</string>
+	<key>APIPaths</key>
+	<dict>
+		<key>categoriesPath</key>
+		<string>/api/categories</string>
+		<key>songsPath</key>
+		<string>/api/songs</string>
+		<key>songPath</key>
+		<string>/api/songs/</string>
+		<key>settingsPath</key>
+		<string>/api/settings</string>
+		<key>livestreamPath</key>
+		<string>/api/livestream</string>
+		<key>artistsPath</key>
+		<string>/api/artists</string>
+		<key>artistPath</key>
+		<string>/api/artists/</string>
+	</dict>
+</dict>
+</plist>

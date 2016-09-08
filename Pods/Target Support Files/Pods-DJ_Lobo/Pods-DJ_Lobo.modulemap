@@ -1,0 +1,6 @@
+framework module Pods_DJ_Lobo {
+  umbrella header "Pods-DJ_Lobo-umbrella.h"
+
+  export *
+  module * { export * }
+}
